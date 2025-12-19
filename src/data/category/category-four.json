@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "image": "https://static.vecteezy.com/system/resources/previews/045/763/716/non_2x/celebration-colorful-cake-on-transparent-background-png.png",
+    "subtitle": "2 Products",
+    "title": "Cakes",
+    "link": "/shop-grid-filter?category=cakes"
+  },
+  {
+    "id": "2",
+    "image": "https://png.pngtree.com/png-clipart/20250102/original/pngtree-gift-boxes-with-bows-and-ribbons-christmas-gifts-birthday-png-image_19717827.png",
+    "subtitle": "3 Products",
+    "title": "Personalised Gifts",
+    "link": "/shop-grid-filter?category=personalised-gifts"
+  },
+  {
+    "id": "3",
+    "image": "https://static.vecteezy.com/system/resources/previews/056/610/388/non_2x/wedding-ring-in-a-white-box-isolated-on-a-transparent-background-free-png.png",
+    "subtitle": "6 Products",
+    "title": "Anniversary Gifts",
+    "link": "/shop-grid-filter?category=anniversary-gifts"
+  },
+  {
+    "id": "4",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/034/630/930/small_2x/elegant-decorative-vases-and-planters-with-succulents-and-other-plants-on-transparent-background-interior-accessories-cut-out-home-decor-front-view-ai-generated-png.png",
+    "subtitle": "5 Products",
+    "title": "Handmade Decor",
+    "link": "/shop-grid-filter?category=handmade"
+  },
+  {
+    "id": "5",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvlIxXr9WHT40ytAUjwJQRb5aWL-3wUdTGIQ&s",
+    "subtitle": "3 Products",
+    "title": "Quilting",
+    "link": "/shop-grid-filter?category=quilting"
+  },
+  {
+    "id": "6",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/032/325/490/small_2x/white-roses-bouquet-of-garden-flowers-floral-arrangement-isolated-on-transparent-background-file-cut-out-ai-generated-png.png",
+    "subtitle": "4 Products",
+    "title": "Flowers",
+    "link": "/shop-grid-filter?category=flower"
+  },
+  {
+    "id": "7",
+    "image": "https://png.pngtree.com/png-vector/20250530/ourmid/pngtree-house-key-with-keyring-isolated-on-a-white-background-png-image_16413086.png",
+    "subtitle": "3 Products",
+    "title": "Keychains",
+    "link": "/shop-grid-filter?category=keychains"
+  },
+  {
+    "id": "8",
+    "image": "https://png.pngtree.com/png-vector/20240727/ourmid/pngtree-folk-wood-craft-from-poland-honey-drizzler-utensil-poland-png-image_13255788.png",
+    "subtitle": "4 Products",
+    "title": "Woodcraft",
+    "link": "/shop-grid-filter?category=woodcraft"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to E-commerce",
+    "subtitle": "30% off Summer Vacation",
+    "mediaType": "video",
+    "image": "/assets/img/slider/slider-5.jpg",
+    "videoId": "dQw4w9WgXcQ",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Smart Products",
+    "subtitle": "40% off Summer Vacation",
+    "mediaType": "image",
+    "image": "/assets/img/slider/slider-5-1.jpg",
+    "videoId": "9bZkp7q19f0",
+    "url": "/shop-grid-standard"
+  }
+]

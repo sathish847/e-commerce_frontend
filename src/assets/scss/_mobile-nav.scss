@@ -1,0 +1,102 @@
+// Navigation styles for both desktop and mobile
+.product-tab-list-2 {
+  margin-bottom: 50px;
+
+  .tab-nav-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 30px;
+    width: 100%;
+  }
+
+  .nav-item {
+    .nav-link {
+      background: none !important; // Override bootstrap default
+      border: none !important; // Override bootstrap default
+      padding: 0;
+      transition: all 0.3s ease;
+      
+      h4 {
+        font-size: 18px;
+        font-weight: 500;
+        margin: 0;
+        position: relative;
+        color: #333;
+        
+        &:after {
+          content: "";
+          position: absolute;
+          bottom: -5px;
+          left: 0;
+          width: 0;
+          height: 2px;
+          background-color: #000;
+          transition: width 0.3s ease;
+        }
+      }
+      
+      &:hover h4:after {
+        width: 100%;
+      }
+      
+      &.active {
+        background: none !important; // Override bootstrap default
+        h4 {
+          color: #000;
+        }
+      }
+    }
+  }
+
+  // Mobile styles
+  @media (max-width: 767px) {
+    margin-bottom: 30px;
+    
+    .tab-nav-wrapper {
+      justify-content: flex-start;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      gap: 15px;
+      padding: 10px 0;
+      
+      &::-webkit-scrollbar {
+        display: none;
+      }
+    }
+
+    .nav-item {
+      flex: 0 0 auto;
+      
+      .nav-link {
+        white-space: nowrap;
+        background: #f8f9fa;
+        border-radius: 20px;
+        padding: 8px 16px;
+        
+        h4 {
+          font-size: 14px;
+          margin: 0;
+          font-weight: 500;
+          
+          &:after {
+            bottom: -2px;
+          }
+        }
+        
+        &.active {
+          background: #f0f0f0;
+          h4 {
+            color: #000;
+          }
+        }
+
+        &:hover {
+          background: #f0f0f0;
+        }
+      }
+    }
+  }
+}

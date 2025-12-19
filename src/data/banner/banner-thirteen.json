@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.shutterstock.com/image-vector/template-design-vector-illustration-horizontal-260nw-2226034707.jpg",
+    "title": "Featured Products",
+    "subtitle": "Choose Your Products Here",
+    "link": "/shop-grid-standard",
+    "textAlign": "right"
+  },
+  {
+    "id": 2,
+    "image": "https://www.shutterstock.com/image-vector/template-design-vector-illustration-horizontal-260nw-2226034707.jpg",
+    "title": "New Products",
+    "subtitle": "Choose Your Products Here",
+    "link": "/shop-grid-standard",
+    "textAlign": "left"
+  }
+]

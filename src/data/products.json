@@ -1,0 +1,898 @@
+[
+
+
+  {
+    "id": "44",
+    "sku": "giftbouquet001",
+    "name": "Rose & Chocolate Gift Bouquet",
+    "price": 49.99,
+    "discount": 15,
+    "new": true,
+    "rating": 4.8,
+    "saleCount": 28,
+    "category": ["flower","couple-gifts","husband","wife","parents"],
+    "tag": ["flower"],
+    "stock": 10,
+    "image": [
+      "https://dukaan.b-cdn.net/700x700/webp/156852/45e7b11c-fe93-4fd7-8654-f254b1cc1167.png",
+      "https://www.flaberry.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fflaberry%2Fmedia%2Fcatalog%2Fproduct%2Ff%2Fl%2Fflowerv-dozen-of-roses-5dmc.jpg&w=1080&q=75",
+      "https://www.flaberry.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fflaberry%2Fmedia%2Fcatalog%2Fproduct%2Ff%2Fl%2Fflowerv-huge-150-roses-cellection-in-tissue-wrap-5dmc_1.jpg&w=1080&q=75",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIdtpnVn6tfV0XN0VtMO1BRNcr4423fJtIJZfDifhhFheDLuzZW8K9XrdIxYtl_aTmGf8&usqp=CAU",
+      "https://giftnmore.in/wp-content/uploads/2022/07/Giftnmore-15-Red-Roses-Basket-with-Teddy-and-5-Dairy-Milk-Chocolates.jpg"
+    ],
+    "shortDescription": "A stunning bouquet combining fresh red roses with gourmet chocolates, perfect for romantic or celebratory gifts.",
+    "fullDescription": "This elegant gift bouquet pairs vibrant red roses with a selection of premium gourmet chocolates, beautifully arranged to resemble a traditional floral bouquet. Each rose is hand-picked for freshness, and the chocolates are nestled among the blooms in a luxurious gift box. Ideal for anniversaries, Valentine’s Day, or to express heartfelt sentiments, this bouquet is a perfect blend of beauty and sweetness, sure to delight any recipient."
+  },
+  {
+    "id": "45",
+    "sku": "giftbouquet002",
+    "name": "Lavender Spa Gift Bouquet",
+    "price": 59.99,
+    "discount": 10,
+    "new": true,
+    "rating": 4.9,
+    "saleCount": 35,
+    "category": ["flower","couple-gifts","husband","wife","parents"],
+    "tag": ["flower"],
+    "stock": 12,
+    "image": [
+      "https://static.vecteezy.com/system/resources/previews/026/540/525/non_2x/watercolor-lavender-flower-bouquet-isolated-png.png",
+      "https://img.freepik.com/premium-photo/watercolor-lavender-flower-bouquet-isolated_118124-36201.jpg?w=360",
+      "https://static.vecteezy.com/system/resources/previews/026/540/499/non_2x/watercolor-lavender-flower-bouquet-isolated-png.png",
+      "https://static.vecteezy.com/system/resources/previews/026/829/311/non_2x/watercolor-lavender-flower-bouquet-isolated-png.png",
+      "https://img.freepik.com/premium-photo/watercolor-lavender-flower-bouquet-isolated_118124-36201.jpg?w=360"
+    ],
+    "shortDescription": "A relaxing spa gift bouquet with lavender-scented products, arranged like a floral bouquet for a pampering experience.",
+    "fullDescription": "Indulge someone special with this lavender spa gift bouquet, designed to mimic the elegance of a floral arrangement. This bouquet includes lavender-scented bath bombs, body lotion, essential oil, and a plush towel, all wrapped in a bouquet-style presentation with faux lavender sprigs for added charm. Perfect for birthdays, Mother’s Day, or a thoughtful self-care gift, this bouquet offers relaxation and luxury in every detail."
+  },
+  {
+    "id": "46",
+    "sku": "giftbouquet003",
+    "name": "Tulip Tea Gift Bouquet",
+    "price": 34.99,
+    "discount": 20,
+    "new": true,
+    "rating": 4.7,
+    "saleCount": 22,
+    "category": ["flower","wife","parents"],
+    "tag": ["flower"],
+    "stock": 15,
+    "image": [
+      "https://bloomsamerica.com/cdn/shop/files/PinkParadiseTulipBouquet01_900x.png?v=1741985609",
+      "https://torontoblooms.ca/cdn/shop/files/PinkParadiseTulipBouquet2_2000x.png?v=1741897042",
+      "https://torontoblooms.ca/cdn/shop/files/EncapsulatedEleganceTulipBouquet3_2000x.png?v=1741974229",
+      "https://torontoblooms.ca/cdn/shop/files/SpringScentsTulipBouquet1_400x.png?v=1741891624",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssfCx-W7YnpTDPU1FG3EjOVFSFisp3KY5wleC35VFVtdsONdxvhE8kyUot_EDplrIO6Q&usqp=CAU"
+    ],
+    "shortDescription": "A charming gift bouquet featuring artisan teas wrapped with vibrant tulip accents, perfect for tea lovers.",
+    "fullDescription": "This delightful tulip tea gift bouquet combines the elegance of fresh tulips with a curated selection of artisan teas. Presented in a bouquet-style arrangement, it includes premium loose-leaf teas, a ceramic teacup, and a tea infuser, all adorned with colorful tulip blooms. Ideal for housewarmings, thank-you gifts, or cozy occasions, this bouquet brings warmth and sophistication to any tea enthusiast’s collection."
+  },
+  {
+    "id": "47",
+    "sku": "giftbouquet004",
+    "name": "Orchid Jewelry Gift Bouquet",
+    "price": 69.99,
+    "discount": 25,
+    "new": true,
+    "rating": 4.6,
+    "saleCount": 18,
+    "category": ["flower","wife","parents"],
+    "tag": ["flower"],
+    "stock": 8,
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRpyqIuC2e28pHcVrNbO2VX0A18dvdqcExw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDQB5GNTQEr0K9jvO9bf3tsXA96XirKGw1KNMBSbZae9PWONPO_56zVi9MqhPxG_8rCY&usqp=CAU",
+      "https://flower-shop.com.ua/image/cache/catalog/bouquets/orchide/35-orhidey-600x600.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRpyqIuC2e28pHcVrNbO2VX0A18dvdqcExw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2vbtz718W0nBdoCnFC80BXlYFQj9L39TDeAlUk3jXgVEeU6GKPiSPfTEGsBfb4y7mF4&usqp=CAU"
+    ],
+    "shortDescription": "An exquisite gift bouquet featuring delicate jewelry pieces nestled among vibrant orchid blooms.",
+    "fullDescription": "This orchid jewelry gift bouquet is a luxurious blend of elegance and sentiment. Featuring a delicate necklace and matching earrings, the jewelry is artfully arranged with vibrant orchid flowers in a bouquet-style presentation. Perfect for anniversaries, weddings, or special milestones, this gift combines the timeless beauty of orchids with sparkling accessories, making it a memorable and sophisticated choice."
+  },
+  {
+    "id": "48",
+    "sku": "giftbouquet005",
+    "name": "Sunflower Snack Gift Bouquet",
+    "price": 44.99,
+    "discount": 10,
+    "new": true,
+    "rating": 4.5,
+    "saleCount": 30,
+    "category": ["flower","parents"],
+    "tag": ["flower"],
+    "stock": 12,
+    "image": [
+      "https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-sunflowers-in-basket-isolated-wildflowers-png-image_10598770.png",
+      "https://png.pngtree.com/png-vector/20240421/ourmid/pngtree-traditional-bamboo-basket-filled-with-sunflowers-png-image_12303870.png",
+      "https://thumbs.dreamstime.com/b/beautiful-sunflower-bouquet-basket-26775825.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGbWQpFHm7NvtssHx2XjpE5y4ulZ9SYBUxnf3z08CfMqB_uf-bH_7ZhR1SeASoL4qyBaE&usqp=CAU",
+      "https://i5.walmartimages.com/asr/9c2eddf6-e628-4411-b27c-df0a295234af.9ab0f7f53d1c79384adfc8d1153a22d0.jpeg"
+    ],
+    "shortDescription": "A cheerful sunflower-themed gift bouquet filled with gourmet snacks, perfect for casual gifting.",
+    "fullDescription": "Brighten someone’s day with this sunflower snack gift bouquet, designed to resemble a vibrant sunflower arrangement. This bouquet includes an assortment of gourmet snacks like roasted nuts, pretzels, and cookies, all wrapped with sunflower accents for a cheerful presentation. Ideal for get-well-soon gifts, thank-yous, or casual celebrations, this bouquet combines fun and flavor in a delightful package."
+  },
+  {
+    "id": "49",
+    "sku": "giftbouquet006",
+    "name": "Hydrangea Candle Gift Bouquet",
+    "price": 54.99,
+    "discount": 20,
+    "new": true,
+    "rating": 4.8,
+    "saleCount": 25,
+    "category": ["flower","parents"],
+    "tag": ["flower"],
+    "stock": 10,
+    "image": [
+      "https://m.media-amazon.com/images/I/41IA8Zz2wiL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+      "https://m.media-amazon.com/images/I/71Hx4vaPirL._UF1000,1000_QL80_.jpg",
+      "https://www.southlakegifts.com/cdn/shop/files/15_1100x.jpg?v=1701162352",
+      "https://www.southlakegifts.com/cdn/shop/files/1600-7_de0a6ca2-bfa2-42ef-9fdd-6eb4e3a7a649.jpg?v=1701162352",
+      "https://www.southlakegifts.com/cdn/shop/files/1600-2_32a5b2b7-907a-42dc-a8c0-165db93548f4_1100x.jpg?v=1701162352"
+    ],
+    "shortDescription": "A luxurious gift bouquet featuring scented candles arranged with lush hydrangea blooms for a cozy ambiance.",
+    "fullDescription": "This hydrangea candle gift bouquet combines the soft beauty of hydrangea flowers with a trio of artisanal scented candles. Presented in a bouquet-style arrangement, the candles feature soothing fragrances like lavender, vanilla, and sandalwood, perfect for creating a relaxing atmosphere. Ideal for housewarmings, weddings, or self-care gifts, this bouquet offers a blend of elegance and warmth for any home."
+  },
+  {
+    "id": "50",
+    "sku": "giftbouquet007",
+    "name": "Daisy Stationery Gift Bouquet",
+    "price": 39.99,
+    "discount": 15,
+    "new": true,
+    "rating": 4.6,
+    "saleCount": 20,
+    "category": ["flower"],
+    "tag": ["flower"],
+    "stock": 14,
+    "image": [
+      "https://png.pngtree.com/png-vector/20240827/ourmid/pngtree-white-daisies-bouquet-isolated-flower-clipart-png-image_13637481.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEv63fzGAUzFjOTExF4ZJC5JMKErgNj2alvYBlC8eAwnOv7OSzdgJTk0FeNuB4DpE6e8&usqp=CAU",
+      "https://png.pngtree.com/png-vector/20230912/ourmid/pngtree-white-daisy-bouquet-png-image_10020933.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfi2iUDEfz8qVciIeAcEK0NO_K1UEl9NZR79L9gOyLmeOkDazCfgV8jBhRP7be8D5h7Q&usqp=CAU",
+      "https://www.shutterstock.com/image-vector/white-chamomile-flowers-clear-glass-600nw-2136849589.jpg"
+    ],
+    "shortDescription": "A charming daisy-themed gift bouquet with stationery essentials, perfect for students or creatives.",
+    "fullDescription": "This daisy stationery gift bouquet is a delightful gift for writers, students, or anyone who loves to create. Arranged to resemble a daisy bouquet, it includes a notebook, pens, sticky notes, and a planner, all wrapped with faux daisy blooms for a cheerful touch. Perfect for back-to-school gifts, birthdays, or creative inspiration, this bouquet combines practicality with a whimsical floral design."
+  },
+  {
+    "id": "51",
+    "sku": "giftbouquet008",
+    "name": "Lily Wine Gift Bouquet",
+    "price": 64.99,
+    "discount": 10,
+    "new": true,
+    "rating": 4.9,
+    "saleCount": 15,
+    "category": ["flower"],
+    "tag": ["flower"],
+    "stock": 9,
+    "image": [
+      "https://png.pngtree.com/png-vector/20250220/ourmid/pngtree-bouquet-of-lilies-and-roses-with-soft-pastel-colors-enhances-special-png-image_15528878.png",
+      "https://png.pngtree.com/png-vector/20231229/ourmid/pngtree-beautiful-flowers-bouquet-nice-gift-for-nalentine-s-day-png-image_11385931.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFsbqKlrNo5ZrnUddW1JD2DqgEMu4dIk2C3mzVBU2XNg9u6Ux5H62_r--K7We4A8c-fHI&usqp=CAU",
+      "https://png.pngtree.com/png-vector/20250220/ourmid/pngtree-bouquet-of-lilies-and-roses-with-soft-pastel-colors-enhances-special-png-image_15528878.png",
+      "https://png.pngtree.com/png-vector/20250220/ourmid/pngtree-delicate-bouquet-of-fresh-orange-and-pink-lilies-with-lush-green-png-image_15529868.png"
+    ],
+    "shortDescription": "A sophisticated gift bouquet featuring a premium wine bottle paired with elegant lily blooms.",
+    "fullDescription": "This lily wine gift bouquet is the epitome of sophistication, combining a bottle of premium red or white wine with stunning white lily blooms in a bouquet-style arrangement. Accompanied by wine glasses and gourmet cheese crackers, this gift is perfect for anniversaries, corporate gifts, or celebratory occasions. The elegant presentation and high-quality contents make this bouquet a luxurious choice for any wine lover."
+  },
+  
+ 
+ 
+  
+ 
+
+  
+  
+
+{
+    "id": "cake001",
+    "sku": "cake001",
+    "name": "Classic Chocolate Layer Cake",
+    "price": 45.99,
+    "discount": 10,
+    "new": true,
+    "rating": 4.9,
+    "saleCount": 58,
+    "category": ["cakes","husband","wife"],
+    "tag": ["cakes", "chocolate", "birthday"],
+    "stock": 10,
+    "image": [
+      "https://preppykitchen.com/wp-content/uploads/2019/06/Chocolate-cake-recipe-1200a.jpg",
+      "https://sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4.jpg",
+      "https://thestayathomechef.com/wp-content/uploads/2016/06/The-Most-Amazing-Chocolate-Cake-Square-1.jpg",
+      "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg",
+      "https://livforcake.com/wp-content/uploads/2017/07/mocha-chocolate-cake-5.jpg"
+    ],
+    "shortDescription": "A decadent three-layer chocolate cake with rich chocolate buttercream frosting.",
+    "fullDescription": "Our signature chocolate layer cake is made with premium cocoa and topped with silky chocolate buttercream. Each layer is perfectly moist and rich, creating the ultimate chocolate experience. Perfect for birthdays, celebrations, or any special occasion that calls for something extraordinarily delicious."
+  },
+  {
+  "id": "80",
+  "sku": "decor001",
+  "name": "Handwoven Macramé Wall Hanging",
+  "price": 49.99,
+  "discount": 15,
+  "new": true,
+  "rating": 4.8,
+  "saleCount": 25,
+  "category": ["handmade","husband","wife"],
+  "tag": ["handmade"],
+  "stock": 10,
+  "image": [
+    "https://png.pngtree.com/png-vector/20250217/ourmid/pngtree-handmade-macrame-wall-hanging-with-bohemian-design-representing-artistic-craftsmanship-and-png-image_15485453.png",
+    "https://png.pngtree.com/png-vector/20250306/ourmid/pngtree-handcrafted-macrame-wall-hanging-showcases-bohemian-style-png-image_15730676.png",
+    "https://png.pngtree.com/png-vector/20250217/ourmid/pngtree-handmade-macrame-wall-hanging-with-bohemian-design-representing-artistic-craftsmanship-and-png-image_15485453.png",
+    "https://png.pngtree.com/png-vector/20250218/ourmid/pngtree-handwoven-macrame-wall-hanging-with-intricate-knots-and-wooden-support-png-image_15519432.png",
+    "https://creatfunny.com/cdn/shop/products/HandmadeMacrameWallHangingWhiteandKhaki10.jpg?v=1610864594"
+  ],
+  "shortDescription": "A beautifully handwoven macramé wall hanging, perfect for adding bohemian charm to any space.",
+  "fullDescription": "Elevate your home decor with this stunning handwoven macramé wall hanging, crafted with care by skilled artisans. Made from high-quality cotton cord, this piece features intricate knots and patterns, creating a bohemian-inspired focal point for any room. Ideal as a thoughtful gift for housewarmings, birthdays, or special occasions, this wall hanging adds warmth and texture to living spaces, bedrooms, or cozy corners."
+  },
+  
+  {
+    "id": "100",
+    "sku": "cake001",
+    "name": "Classic Chocolate Fudge Cake",
+    "price": 34.99,
+    "discount": 10,
+    "new": true,
+    "rating": 4.9,
+    "saleCount": 50,
+    "category": ["cakes"],
+    "tag": ["cakes"],
+    "stock": 20,
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG3aA9MPOgQYscqr9qt7eZVZ3I9r2Dve91sQ&s",
+      "https://png.pngtree.com/png-vector/20240823/ourmid/pngtree-3d-chocolate-fudge-cake-on-transparent-background-png-image_13597405.png",
+      "https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-triangle-shape-slices-piece-of-dark-chocolate-fudge-cake-topping-with-png-image_12526159.png",
+      "https://png.pngtree.com/png-clipart/20250210/original/pngtree-chocolate-fudge-cake-slice-with-strawberry-clipart-illustration-dark-png-image_20414196.png",
+      "https://static.vecteezy.com/system/resources/previews/054/979/354/non_2x/rich-chocolate-fudge-cake-with-raspberry-and-whipped-cream-png.png"
+    ],
+    "shortDescription": "A rich and moist chocolate fudge cake, perfect for birthdays or indulgent celebrations.",
+    "fullDescription": "Indulge in the decadence of our Classic Chocolate Fudge Cake, crafted with layers of moist chocolate sponge and velvety fudge frosting. Topped with chocolate ganache and shavings, this cake is a timeless favorite for birthdays, anniversaries, or any special occasion. Made with premium cocoa, it offers a deep, satisfying flavor that’s perfect for gifting or sharing with loved ones."
+  },
+  {
+    "id": "101",
+    "sku": "cake002",
+    "name": "Strawberry Shortcake Delight",
+    "price": 29.99,
+    "discount": 15,
+    "new": true,
+    "rating": 4.7,
+    "saleCount": 35,
+    "category": ["cakes"],
+    "tag": ["cakes"],
+    "stock": 25,
+    "image": [
+      "https://png.pngtree.com/png-vector/20250129/ourmid/pngtree-layered-strawberry-shortcake-highlights-indulgence-artistry-and-the-celebration-of-delightful-png-image_15365899.png",
+      "https://static.vecteezy.com/system/resources/thumbnails/068/873/956/small_2x/delicious-strawberry-shortcake-with-layers-of-whipped-cream-strawberries-and-cherries-perfect-for-dessert-lovers-delightful-treat-for-any-occasion-png.png",
+      "https://png.pngtree.com/png-vector/20250320/ourmid/pngtree-strawberry-shortcake-dessert-sweet-transparent-background-png-image_15785560.png",
+      "https://png.pngtree.com/png-vector/20241102/ourmid/pngtree-strawberry-shortcake-topped-with-fresh-cream-and-berries-png-image_14222986.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_s7Z5MZ-wunScRe2lBUTgyLgXLmm0H3_wg&s"
+    ],
+    "shortDescription": "A light and fluffy strawberry shortcake with fresh berries, ideal for summer celebrations.",
+    "fullDescription": "Our Strawberry Shortcake Delight is a refreshing treat, featuring layers of airy vanilla sponge, whipped cream, and fresh strawberries. This cake is beautifully decorated with juicy strawberry slices and a dusting of powdered sugar, making it a perfect gift for summer gatherings, birthdays, or romantic occasions. Its light texture and vibrant flavors make it a crowd-pleaser for all ages."
+  },
+  {
+    "id": "102",
+    "sku": "cake003",
+    "name": "Vanilla Cream Dream Cake",
+    "price": 27.99,
+    "discount": 10,
+    "new": true,
+    "rating": 4.8,
+    "saleCount": 45,
+    "category": ["cakes"],
+    "tag": ["cakes"],
+    "stock": 15,
+    "image": [
+      "https://png.pngtree.com/png-clipart/20241129/original/pngtree-vanilla-cake-png-image_17407914.png",
+      "https://static.vecteezy.com/system/resources/previews/042/889/274/non_2x/vanilla-cake-vanilla-cake-with-frosting-and-cream-top-view-vanilla-cake-flat-lay-isolated-png.png",
+      "https://img.pikbest.com/png-images/20241011/classic-vanilla-birthday-cake-adorned-with-buttercream-roses_10948395.png!w700wp",
+      "https://img.pikbest.com/png-images/20241027/vanilla-cake-slice-isolated-on-transparent-or-white-background-png_11012226.png!sw800",
+      "https://static.vecteezy.com/system/resources/previews/059/534/121/non_2x/slice-of-vanilla-cake-isolated-on-transparent-background-png.png"
+    ],
+    "shortDescription": "A classic vanilla cake with smooth cream frosting, perfect for any occasion.",
+    "fullDescription": "Savor the simplicity of our Vanilla Cream Dream Cake, featuring soft vanilla sponge layers and a luscious vanilla buttercream frosting. Decorated with delicate piping and edible pearls, this cake is a versatile gift for birthdays, graduations, or family gatherings. Its timeless flavor and elegant presentation make it a delightful choice for those who appreciate classic desserts."
+  },
+  {
+    "id": "103",
+    "sku": "cake004",
+    "name": "Red Velvet Romance Cake",
+    "price": 39.99,
+    "discount": 20,
+    "new": true,
+    "rating": 4.6,
+    "saleCount": 30,
+    "category": ["cakes","parents"],
+    "tag": ["cakes"],
+    "stock": 12,
+    "image": [
+      "https://img.pikbest.com/png-images/20250111/a-beautifully-decorated-red-velvet-heart-shaped-cake-_11374250.png!w700wp",
+      "https://png.pngtree.com/png-vector/20240216/ourmid/pngtree-heart-shape-cake-for-valentines-day-png-image_11744693.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjoVF7i8DC8S_xNzwuIuBR_lkeDoFPGuvAiuyWTS_VEwhSsvnuy0T_RhOI_GJB9kTMT9c&usqp=CAU",
+      "https://png.pngtree.com/png-vector/20240216/ourmid/pngtree-heart-shape-cake-for-valentines-day-png-image_11744693.png",
+      "https://img.pikbest.com/png-images/20250111/a-beautifully-decorated-red-velvet-heart-shaped-cake-_11374250.png!w700wp"
+    ],
+    "shortDescription": "A luxurious red velvet cake with cream cheese frosting, ideal for romantic gifts.",
+    "fullDescription": "Our Red Velvet Romance Cake is a showstopper, featuring rich red velvet layers paired with creamy, tangy cream cheese frosting. Adorned with red velvet crumbs and a touch of elegance, this cake is perfect for anniversaries, Valentine’s Day, or as a heartfelt gift. Its bold color and irresistible flavor make it a romantic and memorable choice for special occasions."
+  },
+  {
+    "id": "104",
+    "sku": "cake005",
+    "name": "Lemon Zest Celebration Cake",
+    "price": 32.99,
+    "discount": 0,
+    "new": true,
+    "rating": 4.5,
+    "saleCount": 40,
+    "category": ["cakes","parents"],
+    "tag": ["cakes"],
+    "stock": 18,
+    "image": [
+      "https://images.squarespace-cdn.com/content/v1/6457f8dfef4bde1b3e4ccb27/99b7219b-a20c-4bf8-baaa-f8d8e08eb910/LemonChantilly_MID_Original.JPG?format=1500w",
+      "https://thefrenchlettuce.com/cdn/shop/files/Lemon-Chantilly-Cream-Celebration-Cake-The-French-Lettuce-Melbourne_aa4f1d34-a948-4ef1-bf84-faf281baa2a7-591565_600x.jpg?v=1732779640",
+      "https://images.squarespace-cdn.com/content/v1/6457f8dfef4bde1b3e4ccb27/99b7219b-a20c-4bf8-baaa-f8d8e08eb910/LemonChantilly_MID_Original.JPG?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/6457f8dfef4bde1b3e4ccb27/53c77f3d-55ef-4ee7-98c6-842b24c2852d/LemonChantilly_SLICE4_Original.JPG?format=1500w",
+      "https://images.squarespace-cdn.com/content/v1/6457f8dfef4bde1b3e4ccb27/2d77d0ab-28a3-42fb-9b01-cac0ea4dd0cd/LemonChantilly_TOP_Original.JPG?format=1500w"
+    ],
+    "shortDescription": "A zesty lemon cake with tangy frosting, perfect for refreshing celebrations.",
+    "fullDescription": "Brighten any occasion with our Lemon Zest Celebration Cake, featuring moist lemon-infused sponge layers and a tangy lemon buttercream frosting. Decorated with candied lemon slices and a sprinkle of zest, this cake is a vibrant gift for birthdays, spring events, or get-togethers. Its refreshing citrus flavor makes it a delightful choice for those who love a balance of sweet and tart."
+  },
+
+  {
+    "id": "145",
+    "sku": "asdf254",
+    "name": "Wooden Photo Frame",
+    "price": 25,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 30,
+    "category": ["woodcraft","sculptures","couple-gifts","parents","photo-frames"],
+    "tag": ["woodcraft", "decor", "frame"],
+    "stock": 15,
+    "image": [
+      "https://png.pngtree.com/png-vector/20230413/ourlarge/pngtree-photo-frame-wooden-frame-border-transparent-png-image_6697624.png",
+      "https://png.pngtree.com/png-vector/20230413/ourlarge/pngtree-photo-frame-wooden-frame-border-transparent-png-image_6697624.png",
+      "https://png.pngtree.com/png-vector/20230413/ourlarge/pngtree-photo-frame-wooden-frame-border-transparent-png-image_6697624.png",
+      "https://png.pngtree.com/png-vector/20230413/ourlarge/pngtree-photo-frame-wooden-frame-border-transparent-png-image_6697624.png",
+      "https://png.pngtree.com/png-vector/20230413/ourlarge/pngtree-photo-frame-wooden-frame-border-transparent-png-image_6697624.png"
+    ],
+    "shortDescription": "Beautifully crafted wooden photo frame to cherish your memories. Perfect for home decor.",
+    "fullDescription": "A very nice wooden photo frame. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+  },
+  {
+    "id": "146",
+    "sku": "asdf255",
+    "name": "Hand-carved Wooden Bowl",
+    "price": 45,
+    "discount": 0,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["woodcraft","sculptures","couple-gifts","parents"],
+    "tag": ["woodcraft", "kitchen", "bowl"],
+    "stock": 8,
+    "image": [
+      "https://png.pngtree.com/png-vector/20250113/ourmid/pngtree-handcrafted-wooden-bowl-featuring-elegant-floral-motifs-png-image_15169981.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3kswXdniyxvW_zL3uIqEIfRK7JO4EV5X7n2Hk6s-QO1zeKqG6lYOxoWAcV3fKEetMm4&usqp=CAU",
+      "https://png.pngtree.com/png-clipart/20250131/original/pngtree-handcrafted-wooden-bowl-featuring-elegant-floral-motifs-png-image_20235556.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2sCV7HKSl9G1kXbyFTzvmCqKDhgNurNPBoV1Pih6iZm7h0GbDZZ2IOnSsUVxCsZBPXo&usqp=CAU",
+      "https://png.pngtree.com/png-clipart/20250127/original/pngtree-antique-carved-wooden-bowl-with-ornate-floral-designs-png-image_20055473.png"
+    ],
+    "shortDescription": "Elegant hand-carved wooden bowl, perfect for serving or as a decorative piece.",
+    "fullDescription": "An elegant hand-carved wooden bowl. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+  },
+  {
+    "id": "147",
+    "sku": "asdf256",
+    "name": "Assorted Chocolate Box",
+    "price": 30,
+    "discount": 15,
+    "new": true,
+    "rating": 5,
+    "saleCount": 50,
+    "category": ["chocolates"],
+    "tag": ["chocolates", "gift", "sweets"],
+    "stock": 25,
+    "image": [
+      "https://static.vecteezy.com/system/resources/thumbnails/050/573/865/small_2x/assorted-luxury-chocolate-box-with-various-flavors-on-transparent-background-for-gift-giving-and-special-occasions-png.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYI54b012PbwgKsUBaD3OKHtzb8Ube0y6HSg&s",
+      "https://png.pngtree.com/png-clipart/20250116/original/pngtree-holiday-themed-chocolate-collection-png-image_19912411.png",
+      "https://png.pngtree.com/png-vector/20241213/ourmid/pngtree-luxurious-chocolate-assortment-with-nuts-and-truffles-png-image_14727377.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhuTZkQwmw3iZWisO8cDjj0cl111t7_pTQw2za4aIBiIor9lIuC4LSW4OLsakDQpaGT4&usqp=CAU"
+    ],
+    "shortDescription": "A delicious assortment of fine chocolates, perfect for any occasion.",
+    "fullDescription": "A delicious assortment of fine chocolates. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+  },
+  {
+    "id": "148",
+    "sku": "asdf257",
+    "name": "Dark Chocolate Bar",
+    "price": 8,
+    "discount": 0,
+    "new": true,
+    "rating": 4,
+    "saleCount": 100,
+    "category": ["chocolates"],
+    "tag": ["chocolates", "dark chocolate", "bar"],
+    "stock": 50,
+    "image": [
+      "https://www.hebertcandies.com/cdn/shop/products/PI_DarkRaspberry_700x700.png?v=1669929662",
+      "https://st4.depositphotos.com/9733490/31366/i/450/depositphotos_313662718-stock-photo-dark-chocolate-isolated-white-background.jpg",
+      "https://i.ytimg.com/vi/OekNkvK7Ugw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDL37pPW_4w6od9STdTsQ1AUFjFSQ",
+      "https://i0.wp.com/cardsandgiftwrap.co.uk/wp-content/uploads/2023/07/gnaw18_7004_PSH_compressed_2000x2000.png?fit=2000%2C1334&ssl=1",
+      "https://i.ytimg.com/vi/OekNkvK7Ugw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDL37pPW_4w6od9STdTsQ1AUFjFSQ"
+    ],
+    "shortDescription": "Rich and intense 70% dark chocolate bar for the true connoisseur.",
+    "fullDescription": "A rich and intense 70% dark chocolate bar. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+  },
+  {
+    "id": "201",
+    "sku": "mugs-cushions-01",
+    "name": "Personalized Photo Mug",
+    "price": 15.0,
+    "discount": 0,
+    "new": true,
+    "rating": 5,
+    "saleCount": 150,
+    "category": ["mugs-cushions"],
+    "tag": ["mug", "personalized", "gift"],
+    "stock": 30,
+    "image": ["https://www.cakeflowersgift.com/media/images/product/201709191505804705.webp",
+              "https://m.media-amazon.com/images/I/51jfeqAWGPL._UF894,1000_QL80_.jpg",
+              "https://c2.staticsfly.com/asset/fetch/cs/MUG-47005-847-MERCHLARGE_FRONT-WHITEMUG/thumbnail.preview/v3/w/371",
+              "https://d2k16ouylthisj.cloudfront.net/theme_finder/white-photo-coffee-mug/white-photo-coffee-mug-shades-of-joy.jpg?tr=w-170,e-sharpen",
+              "https://cdn11.bigcommerce.com/s-7f9rxjod7c/images/stencil/1280x1280/products/379905/941731/MUGWHT11OZDES23N274-2__39651.1699194656.jpg?c=2&imbypass=on"],
+    "shortDescription": "A perfect personalized gift. Add your favorite photo to this high-quality ceramic mug. It's microwave and dishwasher safe.",
+    "fullDescription": "Start your day with a smile with our personalized photo mug. Made of durable ceramic, this mug is perfect for your morning coffee or tea. You can customize it with any photo you like, making it a unique and thoughtful gift for friends, family, or yourself. The print is high-quality and will not fade. It is both microwave and dishwasher safe for your convenience."
+  },
+  {
+    "id": "202",
+    "sku": "mugs-cushions-02",
+    "name": "Quote Cushion Cover",
+    "price": 20.0,
+    "discount": 0,
+    "new": true,
+    "rating": 4,
+    "saleCount": 120,
+    "category": ["mugs-cushions"],
+    "tag": ["cushion", "home-decor", "gift"],
+    "stock": 25,
+    "image": ["https://m.media-amazon.com/images/I/4190Sx7EDQL._AC_SY350_QL15_.jpg",
+              "https://m.media-amazon.com/images/I/81v54KuNwkL._UF1000,1000_QL80_.jpg",
+              "https://5.imimg.com/data5/YK/LP/MY-6676795/dsc_8044-500x500.jpg",
+              "https://m.media-amazon.com/images/I/81R2gVp-QrL._AC_UF894,1000_QL80_.jpg"
+              ],
+    "shortDescription": "Add a touch of inspiration to your living space with this beautiful quote cushion cover. Made from soft and durable fabric.",
+    "fullDescription": "Decorate your home with our elegant quote cushion cover. Featuring an inspiring message, it's a great way to add a positive vibe to any room. The cover is made from a high-quality, soft-touch fabric that is both comfortable and durable. It has a hidden zipper for easy removal and cleaning. Please note, this is for the cover only, insert is not included."
+  },
+  {
+    "id": "203",
+    "sku": "mugs-cushions-03",
+    "name": "Magic Color Changing Mug",
+    "price": 18.0,
+    "discount": 0,
+    "new": true,
+    "rating": 5,
+    "saleCount": 200,
+    "category": ["mugs-cushions"],
+    "tag": ["mug", "magic", "gift"],
+    "stock": 40,
+    "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvK6ElBU_Ha4KTlSWW3PmoQU-N9ih4qL4Q1g&s",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7LNdx2I3JCDXtPnIYUTFC6Za9OZJEx43gvGVbfczDvlLKUcTq3E_YIw26WDp6JLEW7U&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7LNdx2I3JCDXtPnIYUTFC6Za9OZJEx43gvGVbfczDvlLKUcTq3E_YIw26WDp6JLEW7U&usqp=CAU",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7LNdx2I3JCDXtPnIYUTFC6Za9OZJEx43gvGVbfczDvlLKUcTq3E_YIw26WDp6JLEW7U&usqp=CAU"
+              ],
+    "shortDescription": "A fun and surprising gift! This mug changes color and reveals a hidden design when you pour a hot beverage in it.",
+    "fullDescription": "Experience a little magic with your morning coffee with our color-changing mug. When cold, the mug is a solid color, but as you pour in a hot liquid, a beautiful design appears. It's a fun and unique gift for any occasion. Made from high-quality ceramic and is heat-sensitive. Hand-wash recommended to preserve the magic effect."
+  },
+  
+  {
+    "id": "205",
+    "sku": "mugs-cushions-05",
+    "name": "Couple's Mug Set",
+    "price": 28.0,
+    "discount": 0,
+    "new": true,
+    "rating": 5,
+    "saleCount": 180,
+    "category": ["mugs-cushions","engraved-gifts"],
+    "tag": ["mug", "couple", "gift", "anniversary"],
+    "stock": 35,
+    "image": ["https://5.imimg.com/data5/SELLER/Default/2023/4/301352526/OS/AK/QC/8868876/h.jpg",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf6pY5Z0GZCccOUqiwag1uhFHJGZQ9LzIIw6Hq99Vc7k5TyqqRa5P42nGM7off-H6xhDE&usqp=CAU",
+              "https://5.imimg.com/data5/SELLER/Default/2023/4/301352526/OS/AK/QC/8868876/h.jpg",
+              "https://5.imimg.com/data5/SELLER/Default/2023/4/301352526/OS/AK/QC/8868876/h.jpg"
+  ],
+    "shortDescription": "A romantic gift for your significant other. This set of two mugs features a cute design that complements each other.",
+    "fullDescription": "Share a special moment with your loved one with our couple's mug set. This set includes two ceramic mugs with a matching design, perfect for couples. It's an ideal gift for anniversaries, weddings, or Valentine's Day. The mugs are microwave and dishwasher safe."
+  },
+
+  {
+  "id": "206",
+  "sku": "photo-frames-01",
+  "name": "Personalized Heart-Shaped Photo Frame",
+  "price": 35.0,
+  "discount": 5,
+  "new": true,
+  "rating": 4.8,
+  "saleCount": 120,
+  "category": ["personalised-gifts"],
+  "tag": ["photo-frame", "couple", "gift", "anniversary", "personalized"],
+  "stock": 50,
+  "image": [
+    "https://m.media-amazon.com/images/I/91Fb1oRUavL.jpg",
+    "https://images-cdn.ubuy.co.in/639dc6331778f13afa461a13-personalized-rock-slate-photo-frame.jpg"
+  ],
+  "shortDescription": "A heart-shaped photo frame to cherish your special moments. Personalize it with your names or a heartfelt message.",
+  "fullDescription": "Capture your love story with our Personalized Heart-Shaped Photo Frame. Crafted from high-quality wood, this frame can be engraved with your names, a special date, or a short message, making it a perfect gift for anniversaries, weddings, or Valentine's Day. The frame holds a 4x6 inch photo and comes with a stand for easy display. A timeless keepsake for couples to treasure their memories."
+},
+{
+  "id": "207",
+  "sku": "keychains-01",
+  "name": "Custom Engraved Couple's Keychain Set",
+  "price": 22.0,
+  "discount": 0,
+  "new": true,
+  "rating": 4.7,
+  "saleCount": 95,
+  "category": ["personalised-gifts"],
+  "tag": ["keychain", "couple", "gift", "anniversary", "personalized"],
+  "stock": 60,
+  "image": [
+    "https://m.media-amazon.com/images/I/61Lqdcgu3IL._UY1100_.jpg",
+    "https://m.media-amazon.com/images/I/71bpDZAKJhL._UY1000_.jpg"
+  ],
+  "shortDescription": "A set of two keychains, each engraved with your initials or a special date, perfect for couples.",
+  "fullDescription": "Celebrate your bond with our Custom Engraved Couple's Keychain Set. This set includes two durable stainless steel keychains, each customizable with initials, a significant date, or a short phrase. Compact and stylish, these keychains are a thoughtful gift for anniversaries, engagements, or just because. Carry a piece of your love wherever you go!"
+},
+{
+  "id": "208",
+  "sku": "keepsake-box-01",
+  "name": "Personalized Couple's Engraved Wooden Keepsake Box",
+  "price": 45.0,
+  "discount": 10,
+  "new": false,
+  "rating": 4.9,
+  "saleCount": 150,
+  "category": ["personalised-gifts"],
+  "tag": ["keepsake", "couple", "gift", "anniversary", "personalized"],
+  "stock": 40,
+  "image": [
+    "https://m.media-amazon.com/images/I/81xRP1jeRxL._UF1000,1000_QL80_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUh-i8HgJkEk45aGm4r6X6JfgQ8UY2jstd065csrlAcSmZZk4kEOs6UqWKDd-NtZGyuHY&usqp=CAU"
+  ],
+  "shortDescription": "A beautifully engraved wooden box to store your cherished memories, personalized with your names or a special message.",
+  "fullDescription": "Our Personalized Couple's Engraved Wooden Keepsake Box is the perfect place to store mementos like letters, photos, or small tokens of love. Made from premium hardwood, the box can be customized with the couple’s names, a meaningful date, or a short quote. Ideal for anniversaries, weddings, or as a heartfelt gift, this box is both functional and sentimental, with a velvet-lined interior for added elegance."
+},
+{
+  "id": "209",
+  "sku": "canvas-prints-01",
+  "name": "Custom Star Map Canvas Print",
+  "price": 50.0,
+  "discount": 0,
+  "new": true,
+  "rating": 5.0,
+  "saleCount": 80,
+  "category": ["canvas-prints", "personalised-gifts"],
+  "tag": ["star-map", "couple", "gift", "anniversary", "personalized"],
+  "stock": 30,
+  "image": [
+    "https://www.nookatyou.com/cdn/shop/products/Starry-Night-Star-Map-1.png?v=1617214827",
+    "https://www.nookatyou.com/cdn/shop/products/Moon-Walk-1.2_1800x1800.png?v=1634013766"
+  ],
+  "shortDescription": "A stunning canvas print of the night sky on a special date, personalized with your names and message.",
+  "fullDescription": "Commemorate a meaningful moment with our Custom Star Map Canvas Print. This high-quality canvas displays the exact alignment of the stars on a chosen date and location—such as your first date, wedding, or anniversary. Personalize it with your names, a special date, or a heartfelt message. Available in multiple sizes, this romantic gift is perfect for couples to celebrate their love story."
+},
+{
+    "id": "210",
+    "sku": "jewelry-01",
+    "name": "Personalized Anniversary Necklace Set",
+    "price": 60.0,
+    "discount": 5,
+    "new": true,
+    "rating": 4.9,
+    "saleCount": 110,
+    "category": ["jewelry", "anniversary-gifts","handmade-jewellery","gifts-for-him","gifts-for-her","gifts-for-kids"],
+    "tag": ["necklace", "couple", "anniversary", "personalized", "gift"],
+    "stock": 25,
+    "image": [
+      "https://images-cdn.ubuy.co.in/638cd7836db51d572f72b8d3-personalized-master-2pcs-custom-name-his.jpg",
+      "https://m.media-amazon.com/images/I/61+xigQY8kL._UY1000_.jpg"
+    ],
+    "shortDescription": "A pair of necklaces engraved with your initials or anniversary date, perfect for celebrating your love.",
+    "fullDescription": "Celebrate your milestone with our Personalized Anniversary Necklace Set. This set includes two elegant necklaces crafted from sterling silver, each customizable with initials, your anniversary date, or a short romantic phrase. Designed for couples, these necklaces are a timeless gift for anniversaries, symbolizing your enduring bond. Comes in a luxurious gift box for a perfect presentation."
+  },
+  {
+    "id": "211",
+    "sku": "engraved-plaque-01",
+    "name": "Custom Anniversary Love Plaque",
+    "price": 40.0,
+    "discount": 0,
+    "new": false,
+    "rating": 4.8,
+    "saleCount": 130,
+    "category": ["home-decor", "anniversary-gifts","gifts-for-him","gifts-for-her","gifts-for-kids"],
+    "tag": ["plaque", "couple", "anniversary", "personalized", "gift"],
+    "stock": 45,
+    "image": [
+      "https://m.media-amazon.com/images/I/71dcimuHtyL._UF894,1000_QL80_.jpg",
+      "https://images.ohcanvas.com/ohcanvas_com/2024/07/10203027/Zm7LC4QhpO-vwffeFsmkorjg9yoecS8nL.png"
+    ],
+    "shortDescription": "A custom-engraved wooden plaque to commemorate your anniversary with a heartfelt message.",
+    "fullDescription": "Our Custom Anniversary Love Plaque is a beautiful way to mark your special day. Made from high-quality wood, this plaque can be engraved with your names, anniversary date, or a meaningful quote. Perfect for display on a shelf or wall, it’s a heartfelt anniversary gift that adds a touch of warmth to your home. Ideal for any milestone, from the first to the fiftieth."
+  },
+  {
+    "id": "212",
+    "sku": "memory-book-01",
+    "name": "Personalized Anniversary Memory Book",
+    "price": 38.0,
+    "discount": 3,
+    "new": true,
+    "rating": 4.7,
+    "saleCount": 90,
+    "category": ["books", "anniversary-gifts","gifts-for-him"],
+    "tag": ["memory-book", "couple", "anniversary", "personalized", "gift"],
+    "stock": 35,
+    "image": [
+      "https://images-cdn.ubuy.co.in/6438ee4dc2ecaf365f300c36-wedding-photo-album-cream-gold.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYL24QP9H5VSe8Dp3Xc5xWYBAGC5Y8deYu-0QOw0fAA_B3KDQYU9fUlbaOBm4CMgZWAac&usqp=CAU"
+    ],
+    "shortDescription": "A customizable memory book to document your love story, perfect for anniversary celebrations.",
+    "fullDescription": "Cherish every moment with our Personalized Anniversary Memory Book. This beautifully crafted book allows you to record your favorite memories, milestones, and photos as a couple. Customize the cover with your names and anniversary date for a unique touch. With prompts to guide your storytelling, it’s an ideal anniversary gift for couples to reflect on their journey together."
+  },
+  {
+    "id": "213",
+    "sku": "wine-glasses-01",
+    "name": "Custom Etched Anniversary Wine Glasses",
+    "price": 32.0,
+    "discount": 0,
+    "new": true,
+    "rating": 4.9,
+    "saleCount": 100,
+    "category": ["glassware", "anniversary-gifts","gifts-for-him","gifts-for-her","gifts-for-kids"],
+    "tag": ["wine-glasses", "couple", "anniversary", "personalized", "gift"],
+    "stock": 40,
+    "image": [
+      "https://maisoncustom.com/cdn/shop/files/Wine-glass-initials-romantic-wedding-ceremonial-cute-couple-relationship-custom-personalization-gift-present.jpg?v=1689969183",
+      "https://i.etsystatic.com/11425326/r/il/63d06f/2098996182/il_570xN.2098996182_3tz7.jpg"
+    ],
+    "shortDescription": "A set of two wine glasses etched with your names or anniversary date for a romantic toast.",
+    "fullDescription": "Raise a glass to your love with our Custom Etched Anniversary Wine Glasses. This set of two high-quality crystal glasses is delicately etched with your names, anniversary date, or a short message, making every toast special. Perfect for celebrating your anniversary with a romantic dinner, these glasses are dishwasher-safe and come in elegant packaging, ideal for gifting."
+  },
+  {
+    "id": "214",
+    "sku": "wall-art-01",
+    "name": "Handmade Personalized Anniversary Wall Art",
+    "price": 55.0,
+    "discount": 5,
+    "new": true,
+    "rating": 4.8,
+    "saleCount": 85,
+    "category": ["wall-art", "handmade-decor", "anniversary-gifts","handmade","gifts-for-her"],
+    "tag": ["wall-art", "couple", "anniversary", "personalized", "handmade", "gift"],
+    "stock": 30,
+    "image": [
+      "https://m.media-amazon.com/images/I/61Qqycq2vnL._UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71SzMbPpHvL._UF894,1000_QL80_.jpg"
+    ],
+    "shortDescription": "A handcrafted wall art piece featuring your names and anniversary date, perfect for romantic home decor.",
+    "fullDescription": "Celebrate your love with our Handmade Personalized Anniversary Wall Art. This unique piece is crafted by artisans using high-quality wood and hand-painted details, customized with the couple’s names, anniversary date, or a short romantic quote. The rustic design adds warmth to any home, making it a perfect anniversary gift. Ready to hang, this artwork is a heartfelt addition to your shared space."
+  },
+  {
+    "id": "215",
+    "sku": "candle-holder-01",
+    "name": "Handmade Engraved Anniversary Candle Holder Set",
+    "price": 42.0,
+    "discount": 0,
+    "new": true,
+    "rating": 4.9,
+    "saleCount": 70,
+    "category": ["candle-holders", "handmade-decor", "anniversary-gifts","handmade"],
+    "tag": ["candle-holder", "couple", "anniversary", "personalized", "handmade", "gift"],
+    "stock": 25,
+    "image": [
+      "https://m.media-amazon.com/images/I/61T2mD1DPnL._UF1000,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/51eVv+K1WeL._UF350,350_QL80_.jpg"
+    ],
+    "shortDescription": "A set of two handcrafted candle holders, engraved with your initials or anniversary date.",
+    "fullDescription": "Illuminate your love with our Handmade Engraved Anniversary Candle Holder Set. This set of two ceramic candle holders is meticulously crafted by artisans and personalized with your initials, anniversary date, or a special message. Perfect for creating a romantic ambiance, these holders are designed for standard tealight candles and make a stunning anniversary gift. Each piece is unique, showcasing the beauty of handmade craftsmanship."
+  },
+   {
+    "id": "216",
+    "sku": "quilting-kit-01",
+    "name": "Handmade Personalized Quilting Starter Kit",
+    "price": 65.0,
+    "discount": 10,
+    "new": true,
+    "rating": 4.7,
+    "saleCount": 60,
+    "category": ["quilting-kits", "handmade-crafts", "personalized-gifts","quilting"],
+    "tag": ["quilting", "kit", "personalized", "gift", "anniversary", "handmade"],
+    "stock": 20,
+    "image": [
+      "https://media.istockphoto.com/id/1184793299/photo/quilts-stacked-on-wooden-table-on-white-wall-background.jpg?s=612x612&w=0&k=20&c=FeaFycNsEbEbTGchH2-t2mLUkyujiFPVclzIbmoz2t8=",
+      "https://t4.ftcdn.net/jpg/06/24/93/41/360_F_624934144_GriDlujVgF46nG6ZogH8ggUyL7tbmn44.jpg"
+    ],
+    "shortDescription": "A beginner-friendly quilting kit customized with your choice of fabrics and patterns, perfect for creating a personalized keepsake.",
+    "fullDescription": "Dive into the art of quilting with our Handmade Personalized Quilting Starter Kit. This thoughtfully curated kit includes pre-cut fabric squares, needles, thread, and a pattern template, all selected based on your preferences for colors and themes. Ideal for couples or individuals to craft a unique quilt square as an anniversary gift or hobby project. The kit comes with easy-to-follow instructions, making it accessible for beginners while celebrating the timeless tradition of handmade quilting."
+  },
+  {
+    "id": "217",
+    "sku": "quilt-decor-01",
+    "name": "Custom Hand-Quilted Anniversary Throw Quilt",
+    "price": 120.0,
+    "discount": 15,
+    "new": false,
+    "rating": 4.9,
+    "saleCount": 45,
+    "category": ["quilts", "handmade-decor", "anniversary-gifts","quilting"],
+    "tag": ["quilt", "throw", "anniversary", "personalized", "handmade", "gift"],
+    "stock": 15,
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgqxYtCORrNJRpLIMmKh6SZRrUmW5jLln-w&s",
+      "https://ourshop.in/pub/media/catalog/product/cache/1506a11f4720807143f679307b92b1b0/1/_/1_6.jpg"
+    ],
+    "shortDescription": "A cozy, hand-quilted throw blanket personalized with embroidered names and dates, ideal for snuggling on anniversaries.",
+    "fullDescription": "Wrap yourselves in warmth and memories with our Custom Hand-Quilted Anniversary Throw Quilt. Crafted by skilled artisans using high-quality cotton fabrics, this 50x60 inch throw features a personalized embroidery of your names, anniversary date, or a special message. The traditional quilting stitches add a handmade charm, making it a heirloom-quality gift for couples. Perfect for home decor or as a romantic anniversary present, this quilt combines comfort with sentimental value."
+  },
+  {
+    "id": "218",
+    "sku": "keychains-02",
+    "name": "Handmade Leather Anniversary Keychain Set",
+    "price": 28.0,
+    "discount": 0,
+    "new": true,
+    "rating": 4.8,
+    "saleCount": 75,
+    "category": ["keychains", "handmade-gifts", "anniversary-gifts"],
+    "tag": ["keychain", "couple", "anniversary", "personalized", "handmade", "gift"],
+    "stock": 50,
+    "image": [
+      "https://m.media-amazon.com/images/I/719dNdIr-0L._UY1100_.jpg",
+      "https://m.media-amazon.com/images/I/71ooGZ7dOOL._UY1100_.jpg"
+    ],
+    "shortDescription": "A set of two handcrafted leather keychains, embossed with your initials or anniversary date.",
+    "fullDescription": "Celebrate your shared journey with our Handmade Leather Anniversary Keychain Set. Crafted from premium leather by skilled artisans, this set includes two keychains, each embossed with your initials, anniversary date, or a short romantic phrase. Perfect for couples, these durable and stylish keychains are a thoughtful anniversary gift, combining practicality with heartfelt personalization. Packaged in a charming gift box."
+  },
+  {
+    "id": "219",
+    "sku": "keychains-03",
+    "name": "Custom Hand-Engraved Metal Heart Keychain Set",
+    "price": 35.0,
+    "discount": 5,
+    "new": true,
+    "rating": 4.9,
+    "saleCount": 90,
+    "category": ["keychains", "handmade-gifts", "anniversary-gifts"],
+    "tag": ["keychain", "couple", "anniversary", "personalized", "handmade", "gift"],
+    "stock": 40,
+    "image": [
+      "https://www.photoland.in/wp-content/uploads/2020/01/keychain-5_b-1-800x800.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkynur-C0KwVl1ZEFcvcDx9V-hReUYoR2XtN1xUc4bQcBOoWjHi338Lg16Ev1OpNQZ1KA&usqp=CAU"
+    ],
+    "shortDescription": "Two hand-engraved metal keychains in a heart shape, personalized with your names or special date.",
+    "fullDescription": "Our Custom Hand-Engraved Metal Heart Keychain Set is a romantic keepsake for anniversaries. Each keychain is crafted from polished stainless steel in a heart shape, hand-engraved with your names, anniversary date, or a meaningful message. Designed for couples, this set is a durable and elegant gift that symbolizes your love. Ideal for daily use or as a cherished memento, presented in a sleek gift box."
+  },
+  {
+    "id": "220",
+    "sku": "desk-accessory-01",
+    "name": "Personalized Engraved Desk Nameplate",
+    "price": 45.0,
+    "discount": 5,
+    "new": true,
+    "rating": 4.8,
+    "saleCount": 100,
+    "category": ["desk-accessories", "corporate-gifts"],
+    "tag": ["nameplate", "corporate", "anniversary", "personalized", "gift"],
+    "stock": 40,
+    "image": [
+      "https://m.media-amazon.com/images/I/71gCFQVg1-L.jpg",
+      "https://www.allquality.com/cdn/shop/products/8adfe6ea-aafb-5afb-95bc-4f137a40e45f.png?v=1637149180"
+    ],
+    "shortDescription": "A sleek, engraved desk nameplate personalized with the employee’s name and years of service.",
+    "fullDescription": "Honor employee dedication with our Personalized Engraved Desk Nameplate. Crafted from premium wood or metal, this nameplate is customized with the recipient’s name, job title, and years of service, making it an ideal corporate gift for work anniversaries. Perfect for enhancing a professional workspace, it reflects appreciation and fosters a culture of recognition. Comes elegantly packaged for gifting."
+  },
+  {
+    "id": "221",
+    "sku": "gift-box-01",
+    "name": "Custom Corporate Anniversary Gift Box",
+    "price": 75.0,
+    "discount": 10,
+    "new": false,
+    "rating": 4.9,
+    "saleCount": 80,
+    "category": ["gift-boxes", "corporate-gifts"],
+    "tag": ["gift-box", "corporate", "anniversary", "personalized", "gift"],
+    "stock": 30,
+    "image": [
+      "https://www.packman.co.in/media/iopt/catalog/product/cache/a09868ce8fcb238c3a0e010517543700/b/u/buy-customized_gift-boxes-online32.webp",
+      "https://bubblesplastics.co.za/cdn/shop/files/Photoroom-20240302-214415_2048x.png?v=1709408838"
+    ],
+    "shortDescription": "A curated gift box with branded items, personalized with a company logo and employee’s name.",
+    "fullDescription": "Celebrate corporate milestones with our Custom Corporate Anniversary Gift Box. This luxurious box includes premium items like a branded notebook, pen, and gourmet chocolates, all customizable with the company logo and the employee’s name or years of service. Perfect for work anniversaries, this gift box strengthens employee loyalty and showcases your brand’s appreciation."
+  },
+  {
+    "id": "222",
+    "sku": "crystal-award-01",
+    "name": "Personalized Crystal Anniversary Award",
+    "price": 90.0,
+    "discount": 0,
+    "new": true,
+    "rating": 5.0,
+    "saleCount": 60,
+    "category": ["awards", "corporate-gifts"],
+    "tag": ["crystal-award", "corporate", "anniversary", "personalized", "gift"],
+    "stock": 25,
+    "image": [
+      "https://5.imimg.com/data5/SELLER/Default/2024/10/455175383/FJ/IX/FY/26426600/crystal-trophies-500x500.jpeg",
+      "https://5.imimg.com/data5/SELLER/Default/2023/9/342687951/JX/UU/SP/20252736/crystal-award-trophies-500x500.jpeg"
+    ],
+    "shortDescription": "A stunning crystal award engraved with the employee’s name and milestone anniversary.",
+    "fullDescription": "Recognize outstanding commitment with our Personalized Crystal Anniversary Award. This exquisite crystal piece is engraved with the employee’s name, years of service, and a company logo or message, making it a prestigious gift for significant work anniversaries. Its elegant design ensures it’s a cherished keepsake, perfect for display in offices or homes, reinforcing a culture of appreciation."
+  },
+  {
+    "id": "223",
+    "sku": "paint-set-01",
+    "name": "Personalized Artist's Acrylic Paint Set",
+    "price": 32.0,
+    "discount": 5,
+    "new": true,
+    "rating": 4.7,
+    "saleCount": 65,
+    "category": ["paints", "art-supplies", "personalized-gifts","paintings","craft-supplies","gift-hampers"],
+    "tag": ["acrylic-paint", "artist", "personalized", "gift", "anniversary", "handmade"],
+    "stock": 35,
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2ZeKBvjWCYkIDtCIl-wEmL9TZXutbTbwWw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2ZeKBvjWCYkIDtCIl-wEmL9TZXutbTbwWw&s"
+    ],
+    "shortDescription": "A set of 12 high-quality acrylic paints in a customizable wooden box, perfect for creative anniversary gifts.",
+    "fullDescription": "Unleash creativity with our Personalized Artist's Acrylic Paint Set. This premium set includes 12 vibrant acrylic paints, brushes, and a palette, all housed in a handcrafted wooden box that can be engraved with the recipient's name or a special message. Ideal for artists or as a thoughtful anniversary gift for couples who enjoy painting together, these non-toxic paints are suitable for canvas, wood, or paper. Comes with a guide for beginners."
+  },
+  {
+    "id": "224",
+    "sku": "paint-kit-01",
+    "name": "Custom Watercolor Paint Anniversary Kit",
+    "price": 28.0,
+    "discount": 0,
+    "new": true,
+    "rating": 4.8,
+    "saleCount": 55,
+    "category": ["paints", "art-kits", "anniversary-gifts","paintings","diy-kits","gift-hampers"],
+    "tag": ["watercolor-paint", "kit", "anniversary", "personalized", "gift", "handmade"],
+    "stock": 40,
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsvaLPAtloMxC1r6Fm_bbdlvHS0bA08eM-Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsvaLPAtloMxC1r6Fm_bbdlvHS0bA08eM-Q&s"
+    ],
+    "shortDescription": "A beginner's watercolor paint kit with personalized instructions and a custom color palette for romantic creations.",
+    "fullDescription": "Create beautiful memories with our Custom Watercolor Paint Anniversary Kit. This kit features 8 professional-grade watercolor paints, a sketchbook, and brushes, all in a personalized tin case engraved with your anniversary date or names. Perfect for couples' art sessions or as a unique gift, it includes step-by-step guides for painting romantic scenes. The paints are lightfast and blendable, making it suitable for all skill levels."
+  },
+  {
+  "id": "225",
+  "sku": "clock-01",
+  "name": "Personalized Handcrafted Anniversary Wall Clock",
+  "price": 60.0,
+  "discount": 5,
+  "new": true,
+  "rating": 4.9,
+  "saleCount": 70,
+  "category": ["clocks", "handmade-decor", "anniversary-gifts","gift-hampers"],
+  "tag": ["clock", "couple", "anniversary", "personalized", "handmade", "gift"],
+  "stock": 30,
+  "image": [
+    "https://m.media-amazon.com/images/I/61w0OdXOrcL._UF894,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/61w0OdXOrcL._UF894,1000_QL80_.jpg"
+  ],
+  "shortDescription": "A handcrafted wall clock engraved with your names and anniversary date, perfect for timeless love.",
+  "fullDescription": "Mark every moment together with our Personalized Handcrafted Anniversary Wall Clock. This elegant clock, made from premium wood by skilled artisans, features a minimalist design and is engraved with your names, anniversary date, or a short romantic message. Ideal for anniversaries, this battery-operated clock (AA battery, not included) adds a touch of warmth and sentimentality to any home. Perfect for couples celebrating their enduring love."
+}
+ 
+
+
+]
